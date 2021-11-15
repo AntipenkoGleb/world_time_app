@@ -1,0 +1,205 @@
+{
+    "type": "FeatureCollection",
+    "query": [
+        "min"
+    ],
+    "features": [
+        {
+            "id": "region.5422963921390450",
+            "type": "Feature",
+            "place_type": [
+                "region"
+            ],
+            "relevance": 1,
+            "properties": {
+                "wikidata": "Q39109",
+                "short_code": "BR-MG"
+            },
+            "text": "Minas Gerais",
+            "place_name": "Minas Gerais, Brazil",
+            "bbox": [
+                -51.0493669838454,
+                -22.9227489930405,
+                -39.8567870004862,
+                -14.2324010122321
+            ],
+            "center": [
+                -44.2876708136842,
+                -18.267050433
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -44.2876708136842,
+                    -18.267050433
+                ]
+            },
+            "context": [
+                {
+                    "id": "country.9531777110682710",
+                    "wikidata": "Q155",
+                    "short_code": "br",
+                    "text": "Brazil"
+                }
+            ]
+        },
+        {
+            "id": "region.14740633650676580",
+            "type": "Feature",
+            "place_type": [
+                "region"
+            ],
+            "relevance": 1,
+            "properties": {
+                "wikidata": "Q1527",
+                "short_code": "US-MN"
+            },
+            "text": "Minnesota",
+            "place_name": "Minnesota, United States",
+            "bbox": [
+                -97.2387458890725,
+                43.49936,
+                -89.3847647681358,
+                49.3843532019718
+            ],
+            "center": [
+                -94.1991167709013,
+                46.3434063154
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -94.1991167709013,
+                    46.3434063154
+                ]
+            },
+            "context": [
+                {
+                    "id": "country.19678805456372290",
+                    "wikidata": "Q30",
+                    "short_code": "us",
+                    "text": "United States"
+                }
+            ]
+        },
+        {
+            "id": "place.9038333669154200",
+            "type": "Feature",
+            "place_type": [
+                "region",
+                "place"
+            ],
+            "relevance": 1,
+            "properties": {
+                "wikidata": "Q2280",
+                "short_code": "BY-HM"
+            },
+            "text": "Minsk",
+            "place_name": "Minsk, Belarus",
+            "bbox": [
+                27.3732800003033,
+                53.7921290053172,
+                27.7904989887967,
+                53.970920997488
+            ],
+            "center": [
+                27.56184,
+                53.90225
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.56184,
+                    53.90225
+                ]
+            },
+            "context": [
+                {
+                    "id": "country.13685961050877970",
+                    "wikidata": "Q184",
+                    "short_code": "by",
+                    "text": "Belarus"
+                }
+            ]
+        },
+        {
+            "id": "region.14146701401889110",
+            "type": "Feature",
+            "place_type": [
+                "region"
+            ],
+            "relevance": 1,
+            "properties": {
+                "wikidata": "Q192959",
+                "short_code": "BY-MI"
+            },
+            "text": "Minsk Region",
+            "place_name": "Minsk Region, Belarus",
+            "bbox": [
+                26.0028940043834,
+                52.3923220135781,
+                29.4946399997632,
+                55.0216589237961
+            ],
+            "center": [
+                27.75,
+                53.66667
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    27.75,
+                    53.66667
+                ]
+            },
+            "context": [
+                {
+                    "id": "country.13685961050877970",
+                    "wikidata": "Q184",
+                    "short_code": "by",
+                    "text": "Belarus"
+                }
+            ]
+        },
+        {
+            "id": "region.9728900811137030",
+            "type": "Feature",
+            "place_type": [
+                "region"
+            ],
+            "relevance": 1,
+            "properties": {
+                "wikidata": "Q30675",
+                "short_code": "EG-MN"
+            },
+            "text": "Minya",
+            "place_name": "Minya, Egypt",
+            "bbox": [
+                28.7433820000002,
+                27.5959210444212,
+                30.9118319348529,
+                28.7774119993795
+            ],
+            "center": [
+                30.11,
+                28.11
+            ],
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30.11,
+                    28.11
+                ]
+            },
+            "context": [
+                {
+                    "id": "country.10704931167221740",
+                    "wikidata": "Q79",
+                    "short_code": "eg",
+                    "text": "Egypt"
+                }
+            ]
+        }
+    ],
+    "attribution": "NOTICE: © 2021 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service (https://www.mapbox.com/about/maps/). This response and the information it contains may not be retained. POI(s) provided by Foursquare."
+}
